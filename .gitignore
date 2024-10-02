@@ -1,0 +1,31 @@
+# Mengabaikan folder yang tidak perlu
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Mengabaikan file yang tidak perlu
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+*.suo
+*.user
+*.unityproj
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.idb
+
+# Mengabaikan file sementara
+*.tmp
+*.temp
+
+# Mengabaikan file cache
+*.apk
+*.unitypackage
